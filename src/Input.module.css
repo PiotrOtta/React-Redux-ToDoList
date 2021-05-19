@@ -1,0 +1,42 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 600px;
+    height:50px;
+    background-color: lightgrey;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.container > * {
+    padding: 5px;
+}
+.container input[type="text"]{
+    position: relative;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+.container select{
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 5px 20px;
+}
+.container select:focus {
+    background: linear-gradient(180deg, rgb(211, 211, 211) 0%,  rgb(143, 143, 143) 100%);
+    border-radius: 10px 10px 0 0;
+}
+.addButton {
+    margin: 20px;
+    border: 0px;
+    border-radius: 10px;
+    background: linear-gradient(180deg, rgb(211, 211, 211) 30%,  rgb(143, 143, 143) 100%);
+    border-bottom: 1px solid black;
+}
+.addButton:hover {
+    background: linear-gradient(180deg, rgb(141, 141, 141) 0%,  rgb(80, 80, 80) 100%);
+}
+.priority {
+    margin-left: 10px;
+    padding: 3px 10px;
+}
