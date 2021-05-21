@@ -7,7 +7,7 @@ Screenshots folder is unnecessary for the project to run. </br>
 
 ## Video showcase on Youtube
 https://youtu.be/z1saeCBjR4M </br>
-Disclaimer: The music in the video does not belong to me and I do not receive ad revenue from the video itself.< /br>
+Disclaimer: The music in the video does not belong to me and I do not receive ad revenue from the video itself.
 
 ## Screenshots showcasing the project
 
