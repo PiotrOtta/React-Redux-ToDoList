@@ -5,6 +5,10 @@ User is able to add new tasks, choose category for them, prioritize them and las
 Project is in Polish - this also applies to the comments. </br>
 Screenshots folder is unnecessary for the project to run. </br>
 
+## Video showcase on Youtube
+https://youtu.be/z1saeCBjR4M
+Disclaimer: The music in the video does not belong to me and I do not receive ad revenue from the video itself.< /br>
+
 ## Screenshots showcasing the project
 
 <img src="https://github.com/PiotrOtta/React-Redux-ToDoList/blob/main/screenshots/ToDoList_01.png">
